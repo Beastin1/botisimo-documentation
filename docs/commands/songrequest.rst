@@ -1,4 +1,4 @@
-!songrequest
+!sr
 ============
 
 **Default Permission:** Everyone
